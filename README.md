@@ -37,8 +37,6 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='ANDS101Week5.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
-
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
 - [ScreenToGif](https://www.screentogif.com/) for Windows
